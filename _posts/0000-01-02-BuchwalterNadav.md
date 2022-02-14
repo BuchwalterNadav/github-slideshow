@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"The only thing that I know - Is that I dont know nothing"
 Use the left arrow to go back!
